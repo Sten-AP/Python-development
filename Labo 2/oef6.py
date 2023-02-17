@@ -5,4 +5,3 @@ seizoenen = [('winter', (date(Y,  1,  1),  date(Y,  3, 20))),]
 
 maand = input("Geef de maand in: ")
 dag = int(input("Geef de dag van de maand in: "))
-
